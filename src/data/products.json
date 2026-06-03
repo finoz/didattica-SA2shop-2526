@@ -4,97 +4,97 @@
     "product_name": "---",
     "product_sku": "ARS---",
     "product_price": "XXX.00€",
-    "product_image": "prodotti/arsene-riccardo/img/XXX.jpg"
+    "product_image": "/prodotti/arsene-riccardo/img/XXX.jpg"
   },
   {
     "student_id": "buratti-giacomo",
     "product_name": "---",
     "product_sku": "BUR---",
     "product_price": "XXX.00€",
-    "product_image": "prodotti/buratti-giacomo/img/XXX.jpg"
+    "product_image": "/prodotti/buratti-giacomo/img/XXX.jpg"
   },
   {
     "student_id": "campoli-carola",
     "product_name": "---",
     "product_sku": "CAM---",
     "product_price": "XXX.00€",
-    "product_image": "prodotti/campoli-carola/img/XXX.jpg"
+    "product_image": "/prodotti/campoli-carola/img/XXX.jpg"
   },
   {
     "student_id": "confalonieri-riccardo",
     "product_name": "---",
     "product_sku": "CON---",
     "product_price": "XXX.00€",
-    "product_image": "prodotti/confalonieri-riccardo/img/XXX.jpg"
+    "product_image": "/prodotti/confalonieri-riccardo/img/XXX.jpg"
   },
   {
     "student_id": "farigu-simone",
     "product_name": "---",
     "product_sku": "FAR---",
     "product_price": "XXX.00€",
-    "product_image": "prodotti/farigu-simone/img/XXX.jpg"
+    "product_image": "/prodotti/farigu-simone/img/XXX.jpg"
   },
   {
     "student_id": "galbarini-anna",
     "product_name": "---",
     "product_sku": "GAL---",
     "product_price": "XXX.00€",
-    "product_image": "prodotti/galbarini-anna/img/XXX.jpg"
+    "product_image": "/prodotti/galbarini-anna/img/XXX.jpg"
   },
   {
     "student_id": "gatti-matteo",
     "product_name": "---",
     "product_sku": "GAT---",
     "product_price": "XXX.00€",
-    "product_image": "prodotti/gatti-matteo/img/XXX.jpg"
+    "product_image": "/prodotti/gatti-matteo/img/XXX.jpg"
   },
   {
     "student_id": "giannino-edoardo",
     "product_name": "---",
     "product_sku": "GIA---",
     "product_price": "XXX.00€",
-    "product_image": "prodotti/giannino-edoardo/img/XXX.jpg"
+    "product_image": "/prodotti/giannino-edoardo/img/XXX.jpg"
   },
   {
     "student_id": "mariani-marco",
     "product_name": "---",
     "product_sku": "MAR---",
     "product_price": "XXX.00€",
-    "product_image": "prodotti/mariani-marco/img/XXX.jpg"
+    "product_image": "/prodotti/mariani-marco/img/XXX.jpg"
   },
   {
     "student_id": "moretti-luca",
     "product_name": "---",
     "product_sku": "MOR---",
     "product_price": "XXX.00€",
-    "product_image": "prodotti/moretti-luca/img/XXX.jpg"
+    "product_image": "/prodotti/moretti-luca/img/XXX.jpg"
   },
   {
     "student_id": "negrato-gabriele",
     "product_name": "---",
     "product_sku": "NEG---",
     "product_price": "XXX.00€",
-    "product_image": "prodotti/negrato-gabriele/img/XXX.jpg"
+    "product_image": "/prodotti/negrato-gabriele/img/XXX.jpg"
   },
   {
     "student_id": "romano-lucrezia",
     "product_name": "---",
     "product_sku": "ROM---",
     "product_price": "XXX.00€",
-    "product_image": "prodotti/romano-lucrezia/img/XXX.jpg"
+    "product_image": "/prodotti/romano-lucrezia/img/XXX.jpg"
   },
   {
     "student_id": "vella-riccardo",
     "product_name": "---",
     "product_sku": "VEL---",
     "product_price": "XXX.00€",
-    "product_image": "prodotti/vella-riccardo/img/XXX.jpg"
+    "product_image": "/prodotti/vella-riccardo/img/XXX.jpg"
   },
   {
     "student_id": "prof-demo",
     "product_name": "Gozzoviglio cerealicolo",
     "product_sku": "PROF0102030405",
     "product_price": "1.324,50€",
-    "product_image": "prodotti/prof-demo/img/img_1.png"
+    "product_image": "/prodotti/prof-demo/img/img_1.png"
   }
 ]
