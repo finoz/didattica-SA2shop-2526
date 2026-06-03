@@ -1,0 +1,59 @@
+.social-proof {
+  background-color: var(--color-surface-light);
+  border-top: 0.1rem solid var(--color-border);
+  border-bottom: 0.1rem solid var(--color-border);
+  padding: 2.4rem 2rem;
+}
+
+.social-proof__inner {
+  max-width: 128rem;
+  margin-inline: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+
+  @media (min-width: 768px) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0;
+  }
+}
+
+.social-proof__item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 0.8rem 0;
+
+  @media (min-width: 768px) {
+    align-items: center;
+    text-align: center;
+    padding: 0.8rem 4rem;
+    flex: 1;
+  }
+}
+
+.social-proof__value {
+  font-size: 1.8rem;
+  font-weight: 900;
+  color: var(--color-text);
+  letter-spacing: 0.04em;
+}
+
+.social-proof__label {
+  font-size: 1.2rem;
+  color: var(--color-text-muted);
+}
+
+.social-proof__divider {
+  display: none;
+
+  @media (min-width: 768px) {
+    display: block;
+    width: 0.1rem;
+    height: 4rem;
+    background-color: var(--color-border);
+    flex-shrink: 0;
+  }
+}

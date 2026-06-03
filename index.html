@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>2SA SHOP</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Kode+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <script type="module" src="/src/main.js"></script>
+</head>
+<body>
+
+  <!-- PROMO BANNER -->
+  <div class="promo-banner">
+    <p>SPEDIZIONE GRATUITA PER ORDINI SOPRA I 50€ &middot; RESO GRATUITO ENTRO 30 GIORNI &middot; CONSEGNA FREE AL VILLORESI</p>
+  </div>
+
+  <!-- HEADER -->
+  <header class="header">
+    <a class="logo" href="javascript:alert('Benvenuto in 2SA SHOP!')">2SA SHOP</a>
+    <nav class="nav" id="main-nav" aria-label="Menu principale">
+      <a href="javascript:alert('sei già in home!')" class="nav__link">Home</a>
+      <a href="javascript:alert('Scorri la pagina: son tutti qui!')" class="nav__link">Prodotti</a>
+      <a href="javascript:alert('2SA Shop è un progetto didattico della classe SA2 25/26.')" class="nav__link">Chi siamo</a>
+      <a href="javascript:alert('Se hai bisogno siamo in classe.')" class="nav__link">Contatti</a>
+      <a href="javascript:alert('Mi spiace, nessun prodotto in vendita. Per ora...')" class="nav__cart">CARRELLO</a>
+    </nav>
+    <button class="hamburger" id="hamburger" aria-label="Apri menu" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero__content">
+      <div class="hero__text">
+        <p class="hero__eyebrow">NUOVA STAGIONE</p>
+        <h1 class="hero__headline">
+          Tutto quello<br>che vuoi,<br>
+          <span class="accent">adesso</span>
+        </h1>
+        <a href="#prodotti" class="btn btn--accent hero__cta">SCOPRI TUTTI I PRODOTTI</a>
+      </div>
+      <div class="hero__image-wrap">
+        <img
+          id="hero-img"
+          class="hero__image"
+          src=""
+          alt="Prodotto in evidenza"
+          onerror="this.style.display='none'"
+        />
+        <div class="hero__price-badge" id="hero-price"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SOCIAL PROOF -->
+  <section class="social-proof">
+    <div class="social-proof__inner">
+      <div class="social-proof__item">
+        <span class="social-proof__value">★★★★★</span>
+        <span class="social-proof__label">4.9 su 5 — oltre 2.400 recensioni</span>
+      </div>
+      <div class="social-proof__divider"></div>
+      <div class="social-proof__item">
+        <span class="social-proof__value">48h</span>
+        <span class="social-proof__label">Consegna express garantita</span>
+      </div>
+      <div class="social-proof__divider"></div>
+      <div class="social-proof__item">
+        <span class="social-proof__value">100%</span>
+        <span class="social-proof__label">Pagamenti sicuri e criptati</span>
+      </div>
+      <div class="social-proof__divider"></div>
+      <div class="social-proof__item">
+        <span class="social-proof__value">30gg</span>
+        <span class="social-proof__label">Reso gratuito senza domande</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURED SECTION -->
+  <section class="featured-section">
+    <div class="featured-section__inner">
+      <p class="featured-section__label">PRODOTTO IN EVIDENZA</p>
+      <div class="featured-card" id="featured-card">
+        <div class="featured-card__image-wrap">
+          <img id="feat-img" class="featured-card__image" src="" alt="" onerror="this.style.display='none'" />
+        </div>
+        <div class="featured-card__info">
+          <span class="badge badge--new" id="feat-badge">NUOVO</span>
+          <h2 class="featured-card__name" id="feat-name">Prodotto in evidenza</h2>
+          <p class="featured-card__desc">Il prodotto più popolare della settimana. Design curato, materiali di qualità, spedizione rapida.</p>
+          <p class="featured-card__price accent" id="feat-price">89.00€</p>
+          <a href="#" class="btn btn--accent featured-card__btn" id="feat-link">ACQUISTA ORA</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRODUCTS SECTION -->
+  <section class="products-section" id="prodotti">
+    <div class="products-section__inner">
+      <div class="section-header">
+        <h2 class="section-header__title">Tutti i prodotti</h2>
+        <p class="section-header__count" id="products-count">0 prodotti</p>
+      </div>
+      <div class="products-grid" id="products-grid"></div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <p>
+      &copy; 2026 2SA SHOP &mdash; Tutti i diritti riservati |
+      <a href="javascript:alert('Siamo super attenti ai tuoi dati.')">Privacy Policy</a>
+       | 
+      <a href="javascript:alert('Fidati.')">Termini e Condizioni</a>
+    </p>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+.footer {
+  background-color: var(--color-surface);
+  color: var(--color-text-on-dark);
+  border-top: 0.1rem solid var(--color-border-dark);
+  padding: 2.4rem 2rem;
+  text-align: center;
+
+  p {
+    font-size: 1.2rem;
+    color: var(--color-text-muted-dark);
+    line-height: 1.8;
+  }
+
+  a {
+    color: var(--color-text-muted-dark);
+    text-decoration: underline;
+    text-underline-offset: 0.3rem;
+    transition: color 0.15s;
+
+    &:hover {
+      color: var(--color-text-on-dark);
+    }
+  }
+}
