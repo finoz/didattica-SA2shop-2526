@@ -1,10 +1,10 @@
 [
   {
     "student_id": "arsene-riccardo",
-    "product_name": "---",
-    "product_sku": "ARS---",
-    "product_price": "XXX.00€",
-    "product_image": "/prodotti/arsene-riccardo/img/XXX.jpg"
+    "product_name": "Zaino Urban Arsene Tech Pro 6",
+    "product_sku": "ARS839274651",
+    "product_price": "167,00€",
+    "product_image": "/prodotti/arsene-riccardo/Img/Picture 1.jpg"
   },
   {
     "student_id": "buratti-giacomo",
@@ -15,10 +15,10 @@
   },
   {
     "student_id": "campoli-carola",
-    "product_name": "---",
-    "product_sku": "CAM---",
-    "product_price": "XXX.00€",
-    "product_image": "/prodotti/campoli-carola/img/XXX.jpg"
+    "product_name": "ParfumCase",
+    "product_sku": "CAM234092345230948",
+    "product_price": "65,00€",
+    "product_image": "/prodotti/campoli-carola/img/immagine cover intera.png"
   },
   {
     "student_id": "confalonieri-riccardo",
@@ -57,38 +57,38 @@
   },
   {
     "student_id": "mariani-marco",
-    "product_name": "---",
-    "product_sku": "MAR---",
-    "product_price": "XXX.00€",
-    "product_image": "/prodotti/mariani-marco/img/XXX.jpg"
+    "product_name": "Mariani Backpacks",
+    "product_sku": "MAR1040589",
+    "product_price": "59,99€",
+    "product_image": "/prodotti/mariani-marco/img/Gemini_Generated_Image_ay3eqmay3eqmay3e.png"
   },
   {
     "student_id": "moretti-luca",
-    "product_name": "---",
-    "product_sku": "MOR---",
-    "product_price": "XXX.00€",
-    "product_image": "/prodotti/moretti-luca/img/XXX.jpg"
+    "product_name": "T-shirt Algorithms",
+    "product_sku": "MOR1040589",
+    "product_price": "1.324,50€",
+    "product_image": "/prodotti/moretti-luca/img/img1,7.jpeg"
   },
   {
     "student_id": "negrato-gabriele",
-    "product_name": "---",
-    "product_sku": "NEG---",
-    "product_price": "XXX.00€",
-    "product_image": "/prodotti/negrato-gabriele/img/XXX.jpg"
+    "product_name": "SPECIALIZED Tarmac SL7",
+    "product_sku": "NEG2340923445230948",
+    "product_price": "900,00€",
+    "product_image": "/prodotti/negrato-gabriele/img/p1.jpg"
   },
   {
     "student_id": "romano-lucrezia",
-    "product_name": "---",
-    "product_sku": "ROM---",
-    "product_price": "XXX.00€",
-    "product_image": "/prodotti/romano-lucrezia/img/XXX.jpg"
+    "product_name": "IN LOVE, Lip Gloss & Perfume Mist Collection",
+    "product_sku": "ROM906458757",
+    "product_price": "50,00€",
+    "product_image": "/prodotti/romano-lucrezia/img/immagine.png"
   },
   {
     "student_id": "vella-riccardo",
-    "product_name": "---",
-    "product_sku": "VEL---",
-    "product_price": "XXX.00€",
-    "product_image": "/prodotti/vella-riccardo/img/XXX.jpg"
+    "product_name": "Vellone's shoes per Off-White",
+    "product_sku": "VEL00875903573092",
+    "product_price": "5.000,00€",
+    "product_image": "/prodotti/vella-riccardo/img/p5.jpg.png"
   },
   {
     "student_id": "prof-demo",

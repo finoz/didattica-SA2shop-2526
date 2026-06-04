@@ -1,0 +1,119 @@
+body{
+    margin: o;
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.main {
+    margin: 20px;
+}
+
+h1 {
+    font-family: "kode Mono";
+    font: 36px;
+    font-weight: 500;
+}
+
+.sku {
+    font-size:10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-style: italic;
+    opacity: 0.3;
+}
+
+.product-cover {
+    margin: 0;
+}
+
+.product-cover img {
+  width: 100%;  
+  border-radius: 8px;
+}
+
+
+
+.section-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.product-cta{
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 4px;
+    padding: 6px 10px;
+    text-transform: uppercase;
+    border: 1px solid #000000;
+}
+
+.blocks-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+
+.variant-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    gap: 6px;
+}
+
+.section-content {
+    width:Hug (21px);
+    Height:Hug (24px);
+    border-radius:4px;
+    Border:1px;
+    padding: 6px 4px;
+    Gap:10px;
+}
+
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+
+.gallery-grid img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+
+@media (min-width: 768px)  {
+    .content-wrapper {
+        display:grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+    h1 {
+        font-size: 60px;
+    }
+
+    .product-cta {
+        padding: 15px 12px;
+        margin-right: auto;
+    }
+    .gallery-grid {
+        grid-template-columns: repeat(3,1fr);
+    }
+}
+
+
+.variant-list button:hover {
+    background-color: yellow;
+}
+
+
+.price {
+    font-family: "kode mono";
+    font-size: 24px;
+    margin: 0;
+}
