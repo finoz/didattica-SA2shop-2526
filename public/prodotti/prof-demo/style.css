@@ -26,6 +26,12 @@ e gestire lo spazio tra gli elementi. stess */
     gap: 12px;
 }
 
+.content-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
 h1 {
     font-family: "Kode mono";
     font-size: 36px;
@@ -123,6 +129,18 @@ h1 {
 
 /* a partire da schermi larghi 768px (tablet verticale) */
 @media (min-width: 768px) {
+    .content-wrapper {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
+    h1 {
+        font-size: 60px;
+    }
+    .product-cta {
+        padding: 15px 30px;
+        margin-right:auto;
+    }
     .gallery-grid {
         grid-template-columns: repeat(3, 1fr);
     }
