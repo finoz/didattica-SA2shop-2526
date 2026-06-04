@@ -7,11 +7,53 @@
     "product_image": "/prodotti/arsene-riccardo/Img/Picture 1.jpg"
   },
   {
+    "student_id": "buratti-giacomo",
+    "product_name": "---",
+    "product_sku": "BUR---",
+    "product_price": "XXX.00€",
+    "product_image": "/prodotti/buratti-giacomo/img/XXX.jpg"
+  },
+  {
     "student_id": "campoli-carola",
     "product_name": "ParfumCase",
     "product_sku": "CAM234092345230948",
     "product_price": "65,00€",
     "product_image": "/prodotti/campoli-carola/img/immagine cover intera.png"
+  },
+  {
+    "student_id": "confalonieri-riccardo",
+    "product_name": "---",
+    "product_sku": "CON---",
+    "product_price": "XXX.00€",
+    "product_image": "/prodotti/confalonieri-riccardo/img/XXX.jpg"
+  },
+  {
+    "student_id": "farigu-simone",
+    "product_name": "---",
+    "product_sku": "FAR---",
+    "product_price": "XXX.00€",
+    "product_image": "/prodotti/farigu-simone/img/XXX.jpg"
+  },
+  {
+    "student_id": "galbarini-anna",
+    "product_name": "---",
+    "product_sku": "GAL---",
+    "product_price": "XXX.00€",
+    "product_image": "/prodotti/galbarini-anna/img/XXX.jpg"
+  },
+  {
+    "student_id": "gatti-matteo",
+    "product_name": "---",
+    "product_sku": "GAT---",
+    "product_price": "XXX.00€",
+    "product_image": "/prodotti/gatti-matteo/img/XXX.jpg"
+  },
+  {
+    "student_id": "giannino-edoardo",
+    "product_name": "---",
+    "product_sku": "GIA---",
+    "product_price": "XXX.00€",
+    "product_image": "/prodotti/giannino-edoardo/img/XXX.jpg"
   },
   {
     "student_id": "mariani-marco",
